@@ -1,0 +1,1 @@
+Il faut créer ce fichier manuellement avant de faire le script du Job 04.
